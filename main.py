@@ -1,6 +1,6 @@
 Lista_zakupow = {
     "piekarnia": ['pączek', 'bułki', 'ciasteczko'], 
-    "warzywniak": ['seler', 'rukola']
+    "zoologiczny": ['tygrys', 'pigmejka', "wieloryb"]
 }
 
 print("Lista zakupów")
