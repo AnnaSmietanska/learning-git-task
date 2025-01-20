@@ -11,3 +11,5 @@ for key, values in Lista_zakupow.items():
 
 value_number = sum(len(value) for value in Lista_zakupow.values())
 print(f"W sumie kupuję {value_number} produktów")
+print("Hiszpańska inkwizycja ...")
+
