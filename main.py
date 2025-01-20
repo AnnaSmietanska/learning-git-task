@@ -1,5 +1,5 @@
 Lista_zakupow = {
-    "piekarnia": ['chleb', 'pączek', 'bułki'], 
+    "piekarnia": ['pączek', 'bułki'], 
     "warzywniak": ['marchew', 'seler', 'rukola']
 }
 
